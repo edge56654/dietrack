@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         setSupportActionBar(toolbar);
 
 
-        setTitle( "Emnzy Recipes");
+        setTitle( "Dietrack");
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
